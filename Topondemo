@@ -1,10 +1,10 @@
 {
    "app_redirectOtherAppStatus":"0",
    "app_newPackageName":"https://play.google.com/store/apps/details?id=starutsav.freestarutsavserialsapps15.freestarutsavserialsapp",
-   "app_AppOpenAdStatus":"0",
+   "app_AppOpenAdStatus":"1",
    "qureka":"http://795.win.predchamp.com",
    "more_app":"https://raw.githubusercontent.com/Cipher-Infotech/mockjson/master/db.json",
-   "topon_appopen":"b5f73fe0c5db29",
+   "topon_appopen":"b62403965a822a",
    "topon_appid":"a623d5969332bb",
    "topon_appkey":"0186aef48969e83847cee2b6e49e1cc3",
    "topon_banner":"b623d599cdf837",
